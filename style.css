@@ -155,7 +155,7 @@ li a {
     box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/nasaApp.png");
+    background-image: url("images/nasaApp.png");
     background-size: cover;
     background-position: center;
 }
@@ -168,7 +168,7 @@ li a {
     box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/myrtille.jpg");
+    background-image: url("images/myrtille.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -181,7 +181,7 @@ li a {
     box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/funLoader.png");
+    background-image: url("images/funLoader.png");
     background-size: cover;
     background-position: center;
 }
@@ -243,7 +243,7 @@ li a {
 .aboutImage {
     height: 450px;
     width: 400px;
-    background-image: url(/images/coffee.jpg);
+    background-image: url(images/coffee.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -309,7 +309,7 @@ li a {
         box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/nasaApp.png");
+        background-image: url("images/nasaApp.png");
         background-size: cover;
         background-position: center;
     }
@@ -322,7 +322,7 @@ li a {
         box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/myrtille.jpg");
+        background-image: url("images/myrtille.jpg");
         background-size: cover;
         background-position: center;
     }
@@ -335,7 +335,7 @@ li a {
         box-shadow: 15px 7px 30px 7px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/funLoader.png");
+        background-image: url("images/funLoader.png");
         background-size: cover;
         background-position: center;
     }
